@@ -1,7 +1,10 @@
 # Washington DC Solar Potential Estimation
 
-![QGIS Logo](https://upload.wikimedia.org/wikipedia/commons/6/66/QGIS_logo_new.svg)
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="image1.webp" alt="Image 1" width="45%" />
+  <img src="image2.webp" alt="Image 2" width="45%" />
+</div>
 ## Overview
 
 This project estimates the photovoltaic energy potential for buildings in Washington, DC, leveraging high-resolution geospatial data and advanced modeling tools within **QGIS**. The initiative supports the **Clean Energy DC Omnibus Act**, which targets 100% renewable electricity by 2032, aligning with Washington, DC's commitment to sustainability and clean energy.
