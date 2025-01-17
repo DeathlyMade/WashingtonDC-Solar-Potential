@@ -1,4 +1,4 @@
-# Washington DC Solar Potential Estimation
+# Photovoltaic Energy Potential Estimation for Washington DC
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
