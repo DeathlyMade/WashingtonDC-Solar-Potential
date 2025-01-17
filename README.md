@@ -2,7 +2,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="image1.webp" alt="Image 1" width="45%" />
+  <img src="qgis-logo.png" alt="Image 1" width="45%" />
   <img src="image2.webp" alt="Image 2" width="45%" />
 </div>
 ## Overview
